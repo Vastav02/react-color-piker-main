@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-color-piker-main/static/css/main.1ebf21d1.css",
+    "main.js": "/react-color-piker-main/static/js/main.7c5a01b4.js",
+    "static/js/787.6018e935.chunk.js": "/react-color-piker-main/static/js/787.6018e935.chunk.js",
+    "index.html": "/react-color-piker-main/index.html",
+    "main.1ebf21d1.css.map": "/react-color-piker-main/static/css/main.1ebf21d1.css.map",
+    "main.7c5a01b4.js.map": "/react-color-piker-main/static/js/main.7c5a01b4.js.map",
+    "787.6018e935.chunk.js.map": "/react-color-piker-main/static/js/787.6018e935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ebf21d1.css",
+    "static/js/main.7c5a01b4.js"
+  ]
+}
